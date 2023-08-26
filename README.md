@@ -1,1 +1,2 @@
-# School-Website-Swati-
+# School Website
+by Swati Paliwal
